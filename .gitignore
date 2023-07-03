@@ -39,3 +39,6 @@ jspm_packages
 
 # Environment variables
 .env.local
+
+# Vercel configuration
+.vercel
