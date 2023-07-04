@@ -1,5 +1,7 @@
 # Fantasy of Legends Web App
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0718d4920aa44c2a8d6e3b8d27736ca)](https://app.codacy.com/gh/gabrielaraujof/fantasy-legends-web?utm_source=github.com&utm_medium=referral&utm_content=gabrielaraujof/fantasy-legends-web&utm_campaign=Badge_Grade)
+
 ## Getting Started
 
 First, run the development server:
